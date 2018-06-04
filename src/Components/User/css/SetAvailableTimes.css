@@ -1,0 +1,45 @@
+.Time-Table {
+  max-width: 100%;
+  width: 280px;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  margin-top: 500px;
+  margin-bottom: 30px;
+}
+
+h4, h6 {
+  text-align: center;
+}
+
+p {
+  font-size: 0.88em;
+}
+
+.backbtn {
+  float: left;
+}
+
+.savebtn {
+  float: right;
+}
+
+h4, h6, p, span, .selectTime {
+  color: #636e72;
+}
+
+/* Horizontal line */
+.line {
+   width: 100%;
+   text-align: center;
+   border-bottom: 1px solid #b2bec3;
+   line-height: 0.1em;
+   margin: 10px 0 20px;
+}
+
+/* 'Noon' styling */
+.line span {
+    background:#fff;
+    padding:0 10px;
+}

@@ -1,0 +1,56 @@
+/* Login body */
+.login {
+  width: 430px;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  padding: 50px 50px 50px 50px;
+}
+
+h2 {
+  text-align: center;
+  color: #636e72;
+}
+
+a img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+}
+
+.login Input[type="email"], Input[type="password"] {
+  border: none;
+  border-bottom: 1px solid #b2bec3;
+  width: 100%;
+  background: transparent;
+  outline: none;
+  height: 40px;
+}
+
+.check {
+  float: left;
+}
+
+/* Forgot your password and don't have an account links */
+.links {
+  font-size: 10px;
+  float: right;
+  line-height: 20px;
+}
+
+/* Horizontal line */
+.line {
+   width: 100%;
+   text-align: center;
+   border-bottom: 1px solid #b2bec3;
+   line-height: 0.1em;
+   margin: 10px 0 20px;
+}
+
+/* 'OR' styling */
+.line span {
+    background:#fff;
+    padding:0 10px;
+}

@@ -3,14 +3,21 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "ajv-keywords": "^3.2.0",
+    "availity-reactstrap-validation": "^2.0.2",
     "bootstrap": "^4.1.1",
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
+    "moment": "^2.22.1",
+    "moment-timezone": "^0.5.17",
     "react": "^16.3.2",
     "react-calendar": "^2.14.0",
     "react-dom": "^16.3.2",
     "react-fontawesome": "^1.6.1",
+    "react-icons": "^2.2.7",
+    "react-moment": "^0.7.0",
     "react-scripts": "1.1.4",
+    "react-timezone": "^1.0.5",
     "reactstrap": "^6.0.1"
   },
   "scripts": {

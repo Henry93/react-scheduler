@@ -1,0 +1,20 @@
+.CalendarPage {
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  padding: 50px 50px 50px 50px;
+  margin-top: 50px;
+}
+
+.title, .date, .header {
+  max-width: 350px;
+}
+
+.boxColor {
+  background-color: red;
+}
+
+.confirm {
+  float: right;
+}

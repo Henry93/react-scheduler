@@ -1,0 +1,21 @@
+.SchedulingPage {
+  max-width: 100%;
+  width: 330px;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
+
+.schbtn {
+  float: right;
+}
+
+Input[type="text"] {
+  border: none;
+  border-bottom: 1px solid #b2bec3;
+  width: 100%;
+  background: transparent;
+  outline: none;
+  height: 40px;
+}

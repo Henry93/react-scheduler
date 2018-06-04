@@ -1,24 +1,13 @@
-.ConfirmationPage {
+.ScheduleConf {
   max-width: 100%;
   background: #fff;
   top: 50%;
   left: 50%;
   position: absolute;
   transform: translate(-50%, -50%);
-  border: 1px solid #b2bec3;
-  padding: 60px;
-  border-radius: 20px;
   background-color: #fff;
 }
 
-#timeZone {
-  color: #00cec9;
-}
-
-#dateTime {
-  color: #74b9ff;
-}
-
-h2, h5 {
+h3, h4, h5 {
   color: #00b894;
 }
